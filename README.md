@@ -16,4 +16,4 @@
 ## MY SOCIAL MEDIA
 [![](https://img.shields.io/badge/Instagram-red?logo=Instagram&logoColor=red&labelColor=white)](https://www.instagram.com/kaboy.13)  [![](https://img.shields.io/badge/Whatsapp-CHAT-red?logo=Whatsapp&logoColor=Brightgreen&labelColor=white)](https://wa.me/+6285783106039?text=Asalamualaikum+Kak+Esse+Ganteng)    [![](https://img.shields.io/badge/Github-black?logo=Github&logoColor=black&labelColor=white)](https://github.com/esseboy13) 
 ## KASIH BINTANG ⭐⭐⭐⭐⭐
-![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Selamat+Menikmati-Muridku....!+)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Selamat+Menikmati-Temanku....!+)
