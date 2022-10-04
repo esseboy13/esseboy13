@@ -7,6 +7,8 @@
 
 - ![Alt text](https://github.com/MRVIVEK-CODER/MRVIVEK-CODER/raw/main/Developer.gif)
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Koulen&size=25&duration=5000&color=light&center=true&vCenter=true&multiline=true&width=600&lines=Selamat+Datang+Digithub+Esseboy+13+Jangan+Lupa+Follow)](https://git.io/typing-svg)
+
 </p>
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=esseboy13&show_icons=true&theme=dark)
